@@ -79,7 +79,7 @@ Each module follows an interface like `auth_interface.py` for clean separation.
 
 For full documentation on how Zenseed modules work, contributing standards, and ethical principles, see:
 
-👉 [Zenseed Docs on GitHub](https://github.com/The-Zenseed-Project/docs)
+👉 [Zenseed Docs on GitHub](https://github.com/The-Zenseed-Project/Zenseed)
 
 ---
 
