@@ -1,0 +1,10 @@
+modules:
+  auth:
+    implementation: keycloak
+    version: "1.0.0"
+  rbac:
+    implementation: simple
+    version: "0.1.0"
+  secrets:
+    implementation: env
+    version: "0.1.0"
